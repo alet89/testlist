@@ -1282,12 +1282,6 @@
             "chainId": 1,
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7698211Cf413a2e5953e1c155bbDdCB033CC31e3/logo.png"
-        },
-    ],
-    "version": {
-        "major": 1,
-        "minor": 1,
-        "patch": 3
-    },
-    "timestamp": "2020-09-26T01:56:07.314Z"
+        }
+    ]
 }

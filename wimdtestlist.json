@@ -1,0 +1,108 @@
+{
+  "name": "WIMD List",
+  "timestamp": "2020-09-17T00:12:46.685Z",
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/logo.png?token=AE365S53KQAE3SBQO7E5FC27SSJO4",
+  "keywords": [
+    "WIMD",
+    "default"
+  ],
+  "tokens": [
+        {
+        "name": "Penguin Fancy Shoes",
+        "address": "0xE63983b5FAdE429eC052d1b365826C4Bc5fCB198",
+        "symbol": "PenguinFS",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/1314350493399825849440291684746997404115301872024.png?token=AE365S7ZOR63GJIWIGDQJT27SSIHY"
+        },
+        {
+        "name": "Unicorn Cat",
+        "address": "0xc2c5667f69E881C83Fc4692f7A08a22370B4cc41",
+        "symbol": "UniCat",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/1111946385153737223689257886665575715568350448705.png?token=AE365S52YGL2O4A3WWZVWM27SSIGE"
+        },
+        {
+            "name": "Magician Unicorn",
+            "address": "0xA70C8667cCFB63D6b98C2A050c94b7Bf2085dC55",
+            "symbol": "MagUni",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/953680776037830019376762634780957885111415987285.png?token=AE365S2RUB4RKL7TBXZJZZ27SSIKU"
+        },
+        {
+            "name": "Magician Cat",
+            "address": "0x7C23Ac2E8DA915d4f422CF710f4767FAa0c332fa",
+            "symbol": "MagCat",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/708710380818572902317750208759935671347114619642.png?token=AE365S3YRRGV7YKMBLBF6SK7SSIOI"
+        },
+        {
+            "name": "Penguin Unicorn",
+            "address": "0x9b16e70797276Ae1bE23874961D1E6a9698e1EC6",
+            "symbol": "PenUni",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/885404311393007699790400512240499286361791930054.png?token=AE365S4YUEUJ5XDGYMDVXHS7SSIRK"
+        },
+        {
+            "name": "Unicorn Ghost",
+            "address": "0x88B95322b5E93B891D83031F2f55Ca238D5e6417",
+            "symbol": "UniGhost",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/780555624824904431919937819844714503576378827799.png?token=AE365SZDIXANPCFL7WO35M27SSIWM"
+        },
+        {
+            "name": "Unicorn Dragon",
+            "address": "0x22e6559F495F97Af51fF56719CdFF80F65a0B93A",
+            "symbol": "UniDragon",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/b-u-i-d-l/Where-Is-My-Dragon/main/assets/img/cardImages/199242316350403115624675989599876480538394016058.png?token=AE365S4GCMKWBNH75DMNQDK7SSIZ6"
+        },
+        {
+            "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+            "name": "dfohub",
+            "symbol": "buidl",
+            "decimals": 18,
+            "logoURI": "https://ipfs.io/ipfs/QmaEqNCwRxdA6SLLxntT2xbsUgqxMfGVCwoHuyXjczoQwN?filename=buidllogo.png",
+            "chainId": 1,
+            "tags": []
+            },
+        {
+            "address": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+            "name": "UniFi",
+            "symbol": "UniFi",
+            "decimals": 18,
+            "logoURI": "https://ipfs.io/ipfs/QmZrAz3mcSUvuutFaKkbFd5CXwEioCbFrcSLfA6qptsQPu?filename=unifilogo.png",
+            "chainId": 1,
+            "tags": []
+        },
+        {
+            "name": "Unified Stable Dollar",
+            "address": "0x44086035439E676c02D411880FcCb9837CE37c57",
+            "symbol": "uSD",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x44086035439E676c02D411880FcCb9837CE37c57/logo.png"
+        },
+        {
+            "address": "0x34612903Db071e888a4dADcaA416d3EE263a87b9",
+            "name": "ethart",
+            "symbol": "arte",
+            "decimals": 18,
+            "chainId": 1,
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x34612903Db071e888a4dADcaA416d3EE263a87b9/logo.png"
+        }
+    ]
+}
